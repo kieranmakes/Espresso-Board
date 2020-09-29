@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Espresso Board</title>
+  </head>
+  <body>
+    
+    <div class="container">
+      <img id="title-image" src="./icon/wordLogo.PNG">
+      <!-- <h1 id='title'> ☕️ Espresso Board ☕️ </h1> -->
+      <hr>
+          <ul class="list-group"></ul>
+          <img id="filler-icon" src="./icon/coffeeIcon.PNG">
+    </div>
+    
+
+    <!-- You can also require other files to run in this process -->
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="./renderer.js"></script>
+  </body>
+</html>

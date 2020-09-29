@@ -1,0 +1,16 @@
+{
+  "name": "espresso-board",
+  "version": "1.0.0",
+  "description": "a clipboard manager",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Kieran Williams",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}

@@ -1,6 +1,6 @@
  <img src="https://github.com/kieranmakes/Espresso-Board/blob/master/icon/wordLogo.PNG" width='50%' >
 
-&nbsp;&nbsp;&nbsp;&nbsp; A Clipboard Manager app that lives in the menu bar
+&nbsp;&nbsp;&nbsp;&nbsp; A Clipboard Manager desktop app made for Mac OS that lives in the menu bar
 
 <hr>
 

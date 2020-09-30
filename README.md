@@ -19,6 +19,12 @@ run ***CMD + Q*** to exit app
 
 <hr>
 
+To download app click the link below:
+
+<a href="#">Download File</a>
+
+<hr>
+
 credits: 
 
 <div>menu Icon made by <a href="https://www.flaticon.com/authors/mynamepong" title="mynamepong">mynamepong</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>

@@ -9,6 +9,7 @@ const path = require('path')
 
 let tray = null;
 let mainWindow;
+let menuIcon = path.join(__dirname,'icon/hot-cup.png')
 
 function createWindow () {
   // Create the browser window.
@@ -25,7 +26,7 @@ function createWindow () {
 
   mainWindow.hide();
 
-  tray = new Tray('./icon/hot-cup.png');
+  tray = new Tray(menuIcon);
 
   mainWindow.on('show', () => {
     const bounds = tray.getBounds();

@@ -1,13 +1,20 @@
 # Espresso Board
 A Clipboard Manager app that lives in the menu bar
 
-To install and run app:
+<hr>
+
+To install source code and run app:
 
 $ git clone https://github.com/kieranmakes/Espresso-Board/
 
 $ npm install
 
 $ npm start
+
+<hr>
+
+run ***CMD + Q*** to exit app
+
 
 <hr>
 

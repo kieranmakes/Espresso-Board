@@ -4,7 +4,7 @@
 
 <hr>
 
-To install source code and run app:
+### To install source code and run app:
 
 $ git clone https://github.com/kieranmakes/Espresso-Board/
 
@@ -14,12 +14,14 @@ $ npm start
 
 <hr>
 
+### Usage
+
 run ***CMD + Q*** to exit app
 
 
 <hr>
 
-To download app click the link below:
+### To download app click the link below:
 
 <a href="#">Download File</a>
 

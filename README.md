@@ -16,8 +16,11 @@ $ npm start
 
 ### Usage
 
-run ***CMD + Q*** to exit app
+Exit App: ***CMD + Q***
 
+Remove Clipboard Listing: ***Right Click***
+
+Copy Clipboard Listing: ***Left Click***
 
 <hr>
 

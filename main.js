@@ -38,7 +38,7 @@ function createWindow () {
     mainWindow.isVisible() ? mainWindow.hide() : mainWindow.show();
   });
 
-
+  tray.setIgnoreDoubleClickEvents(true);
 
   // and load the index.html of the app.
   mainWindow.loadFile('index.html')

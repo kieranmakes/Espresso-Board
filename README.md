@@ -22,7 +22,12 @@ Remove Clipboard Listing: ***Right Click***
 
 Copy Clipboard Listing: ***Left Click***
 
+
+![Usage gif](https://media.giphy.com/media/j3a9A6p0xUCGr32MxT/giphy.gif)
+
+
 <hr>
+
 
 ### To download app click the link below:
 

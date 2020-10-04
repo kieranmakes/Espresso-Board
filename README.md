@@ -12,6 +12,11 @@ $ npm install
 
 $ npm start
 
+
+### To make distributable:
+
+$ npm run make
+
 <hr>
 
 ### Usage

@@ -3,13 +3,14 @@ const {
   app, 
   BrowserWindow,
   Menu,
-  Tray
+  Tray,
 } = require('electron')
 const path = require('path')
 
 let tray = null;
 let mainWindow;
-let menuIcon = path.join(__dirname,'icon/hot-cup.png')
+let menuIcon = path.join(__dirname,'icon/hot-cup.png');
+let mousePos = null;
 
 function createWindow () {
   // Create the browser window.
@@ -32,9 +33,14 @@ function createWindow () {
     const bounds = tray.getBounds();
     mainWindow.setPosition(bounds.x, bounds.y);
   });
+
+  mainWindow.on('blur', () => {
+    mainWindow.hide();
+  });
   
   //show tray when clicked
   tray.on('click', () => {
+    
     mainWindow.isVisible() ? mainWindow.hide() : mainWindow.show();
   });
 
@@ -56,7 +62,7 @@ app.whenReady().then(() => {
   app.on('activate', function () {
     // On macOS it's common to re-create a window in the app when the
     // dock icon is clicked and there are no other windows open.
-    if (BrowserWindow.getAllWindows().length === 0) createWindow()
+    if (BrowserWindow.getAllWindows().length === 0) createWindow();
   })
 });
 

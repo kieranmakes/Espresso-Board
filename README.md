@@ -2,9 +2,11 @@
 
 &nbsp;&nbsp;&nbsp; A Clipboard Manager desktop app made for Mac OS that lives in the menu bar
 
+&nbsp;&nbsp;&nbsp; 🔗  &nbsp;&nbsp; [Download App](https://drive.google.com/file/d/1gFsapAsHEf6b3-jBDVS_B8xZEqOz05CO/view?usp=sharing)
+
 <hr>
 
-## 🏃🏾‍♂️ &nbsp;&nbsp; To install source code and run app:
+## Install Source Code and Run App &nbsp;&nbsp; 🏃🏾‍♂️ 
 
     $ git clone https://github.com/kieranmakes/Espresso-Board/
 
@@ -13,13 +15,15 @@
     $ npm start
 
 
-## 🔫  &nbsp;&nbsp; To make executable:
+## Make Executable &nbsp;&nbsp; 🔫  
 
     $ npm run make
+    
+    --> outputs executable to the out file witht the name Espresso-Board
 
 <hr>
 
-## 🕹 &nbsp;&nbsp; Usage
+## Usage &nbsp;&nbsp; 🕹 
 
 Exit App: ***CMD + Q***
 
@@ -31,9 +35,9 @@ Copy Clipboard Listing: ***Left Click***
 ![Usage gif](https://media.giphy.com/media/j3a9A6p0xUCGr32MxT/giphy.gif)
 
 
-## 🔗 &nbsp;&nbsp; To download app click the link below:
+## To Download App Click the Link Below &nbsp;&nbsp; 
 
-<a href="https://drive.google.com/file/d/1gFsapAsHEf6b3-jBDVS_B8xZEqOz05CO/view?usp=sharing">Download File</a>
+<a href="">Download File</a>
 
 <hr>
 

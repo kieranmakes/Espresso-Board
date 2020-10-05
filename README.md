@@ -4,7 +4,7 @@
 
 <hr>
 
-## 🏃🏾‍♂️ &nbsp;&nbsp;&nbsp; To install source code and run app:
+## 🏃🏾‍♂️ &nbsp;&nbsp; To install source code and run app:
 
     $ git clone https://github.com/kieranmakes/Espresso-Board/
 
@@ -13,13 +13,13 @@
     $ npm start
 
 
-## 🔫  &nbsp;&nbsp;&nbsp; To make executable:
+## 🔫  &nbsp;&nbsp; To make executable:
 
     $ npm run make
 
 <hr>
 
-##  &nbsp;&nbsp;&nbsp; 🕹 Usage
+## 🕹 &nbsp;&nbsp; Usage
 
 Exit App: ***CMD + Q***
 
@@ -31,7 +31,7 @@ Copy Clipboard Listing: ***Left Click***
 ![Usage gif](https://media.giphy.com/media/j3a9A6p0xUCGr32MxT/giphy.gif)
 
 
-## 🔗 To download app click the link below:
+## 🔗 &nbsp;&nbsp; To download app click the link below:
 
 <a href="https://drive.google.com/file/d/1gFsapAsHEf6b3-jBDVS_B8xZEqOz05CO/view?usp=sharing">Download File</a>
 

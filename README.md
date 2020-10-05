@@ -34,11 +34,6 @@ Copy Clipboard Listing: ***Left Click***
 
 ![Usage gif](https://media.giphy.com/media/j3a9A6p0xUCGr32MxT/giphy.gif)
 
-
-## To Download App Click the Link Below &nbsp;&nbsp; 
-
-<a href="">Download File</a>
-
 <hr>
 
 credits: 

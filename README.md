@@ -19,7 +19,7 @@
 
     $ npm run make
     
-    --> outputs executable to the out file witht the name Espresso-Board
+    --> outputs executable 'espresso-board.app' to the out file
 
 <hr>
 
